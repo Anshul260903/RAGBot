@@ -11,4 +11,3 @@ RAGBot is a **Retrieval-Augmented Generation (RAG) system** that combines multip
   - 🕸 **Graph Search** – Entity and relationship-based retrieval
 - **LLM Integration** – Generates answers using retrieved context
 - **Real-Time Relevance** – Optimized for high relevance, freshness, and dynamic context handling
-- 
